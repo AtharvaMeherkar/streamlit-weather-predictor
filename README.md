@@ -37,9 +37,17 @@
 
 ---
 
-## 🎥 Live Demo & Preview
+## 🎥 Preview
 
-A live version of this application can be deployed using Streamlit Community Cloud.
+
+![image](https://github.com/user-attachments/assets/31614ffa-be75-47a0-8f5a-b6dd0b3627b0)
+
+
+![image](https://github.com/user-attachments/assets/68ccc133-66c6-4994-9a5b-399efdad5c47)
+
+
+![image](https://github.com/user-attachments/assets/bce0c7e4-545d-4fb6-88f1-b465919f49db)
+
 
 ## 🛠️ Tech Stack & Architecture
 
