@@ -38,7 +38,9 @@
 ---
 
 ## 🎥 Preview
+A live version of this application has been deployed using Streamlit Community Cloud.
 
+https://app-weather-predictor.streamlit.app/
 
 ![image](https://github.com/user-attachments/assets/31614ffa-be75-47a0-8f5a-b6dd0b3627b0)
 
